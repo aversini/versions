@@ -1,6 +1,8 @@
 {
   "envtools": {
-    "version": "0.0.78",
-    "testing": 1
+    "version": "0.0.78"
+  },
+  "fedtools": {
+    "version": "1.0.133"
   }
 }
